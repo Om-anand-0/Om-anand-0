@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, Smartphones, Tech**
 
-- 📫 How to reach me **omanand8226@gmail.com**
+- 📫 How to reach me **om.d3v.21.com**
 
 - ⚡ Fun fact **I watch Anime**
 
