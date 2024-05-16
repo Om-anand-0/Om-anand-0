@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on download time calculator.<br>🌱 I’m currently learning C, C++, Blender, After Effects, Premier Pro.<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : I wear socks of two different colours.
+🔭 I’m currently working on c++ basics.<br>🌱 I’m currently learning Reverse Engineering in C++.<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : I wear socks of two different colours.
 
 
 ## 🌐 Socials:
