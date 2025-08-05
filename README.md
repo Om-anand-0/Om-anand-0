@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open GL in c++.<br>🌱 I’m currently learning Kotlin & D.S.A.<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : No Fun Facts.
+🔭 I’m currently working on To Do App in Js.<br>🌱 I’m currently learning Js, React & D.S.A.<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : Monster ultra white is better than Redbull no sugar.
 
 
 ## 🌐 Socials:
