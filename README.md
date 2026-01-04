@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on To Do App in Js.<br>🌱 I’m currently learning Js, React & D.S.A.<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : Monster ultra white is better than Redbull no sugar.
+🔭 I’m currently working on Redis.<br>🌱 I’m currently learning Python,AWS,DevOps .<br>💬 Ask me about Android, tech stuff.<br>⚡ Fun fact : I am a Linux Nerd
 
 
 ## 🌐 Socials:
